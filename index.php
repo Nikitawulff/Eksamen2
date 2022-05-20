@@ -13,7 +13,6 @@
     <link href="css/bootstrap.scss" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link href="css/styles.scss" rel="stylesheet" type="text/css">
-    <script src="https://kit.fontawesome.com/2ffc3ae043.js" crossorigin="anonymous"></script>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -22,7 +21,6 @@
 
 <?php include "includes/nav.php"; ?>
 <!-- indhold-->
-
 
 <!-- indhold slut-->
 
