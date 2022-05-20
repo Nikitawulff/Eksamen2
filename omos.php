@@ -29,5 +29,8 @@
 
 <!-- Her skal sidens indhold ligge -->
 
+<!-- blå boks-->
+
+<div class="container"><div>
 </body>
 </html>
